@@ -1,5 +1,5 @@
+import React from "react";
 import { background } from "../../assets";
-import React from "react"
 
 export const Rings = () => {
   return (
