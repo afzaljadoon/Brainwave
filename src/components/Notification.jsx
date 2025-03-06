@@ -1,3 +1,4 @@
+import React from "react";
 import { notification1 } from "../assets";
 import { notificationImages } from "../constants";
 
