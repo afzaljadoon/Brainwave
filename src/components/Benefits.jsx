@@ -1,3 +1,4 @@
+import React from "react";
 import { benefits } from "../constants";
 import Heading from "./Heading";
 import Section from "./Section";
