@@ -8,6 +8,7 @@ import { useRef } from "react";
 import Generating from "./Generating";
 import Notification from "./Notification";
 import CompanyLogos from "./CompanyLogos";
+import React from "react";
 
 const Hero = () => {
   const parallaxRef = useRef(null);
