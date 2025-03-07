@@ -1,3 +1,4 @@
+import React from "react";
 const brackets = (position) =>
   position === "left" ? (
     <svg
